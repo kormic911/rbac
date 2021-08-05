@@ -1,5 +1,5 @@
 {
-    "name": "yaroslavmolchan/rbac",
+    "name": "kormic911/rbac",
     "description": "Simple RBAC/ACL for Laravel 5.5 and more with caching and permission groups.",
     "version" : "2.0.0",
     "keywords": ["laravel", "rbac", "acl"],
